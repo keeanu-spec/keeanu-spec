@@ -26,7 +26,7 @@ Soy un estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) desde Gran
 
 ### 📊 Estadísticas de GitHub
 
-![Keeanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keeanu_spec&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
+![Keeanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keeanu-spec&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
 
 ---
 
